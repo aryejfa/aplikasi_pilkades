@@ -211,6 +211,7 @@ switch (ENVIRONMENT)
 		).DIRECTORY_SEPARATOR;
 	}
 
+
 	// Is the system path correct?
 	if ( ! is_dir($system_path))
 	{
